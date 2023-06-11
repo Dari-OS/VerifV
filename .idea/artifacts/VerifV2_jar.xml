@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VerifV2:jar">
+    <output-path>$USER_HOME$/Desktop/MCserver/plugins</output-path>
+    <root id="archive" name="VerifV2.jar">
+      <element id="module-output" name="VerifV2" />
+    </root>
+  </artifact>
+</component>

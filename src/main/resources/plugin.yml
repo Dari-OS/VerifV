@@ -1,0 +1,7 @@
+name: VerifV
+version: '2'
+main: me.dari_os.verifv2.Main
+api-version: 1.19
+author: Dari_OS
+commands:
+  verify:
