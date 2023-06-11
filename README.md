@@ -9,7 +9,7 @@ A simple Minecraft plugin that prevent bots to play on your server. By verfying 
  + [*Mineflayer*](https://github.com/PrismarineJS/mineflayer)
 
 ### Command
-***`/verify [verification-code]`***
+**`/verify [verification-code]`**
 > Let´s the user verify himselfe with the provided verification-code.
 
 ## Preview
