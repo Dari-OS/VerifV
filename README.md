@@ -10,6 +10,7 @@ A simple Minecraft plugin that prevent bots to play on your server. By verfying 
 
 ### Command
 ***`/verify [verification-code]`***
+> Let´s the user verify himselfe with the provided verification-code.
 
 ## Preview
 
