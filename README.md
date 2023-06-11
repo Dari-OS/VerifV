@@ -18,6 +18,3 @@ A simple Minecraft plugin that prevent bots to play on your server. By verfying 
 ## Preview
 
 ![App Screenshot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTMxZGIxMTU0YTRkMTVkODIxNzdmYWMwNDllODgxYWEzYzczMGRjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kM8iXK6LMkuGKZN3tD/giphy.gif)
-
-## Download
-[Download latest release](Releases/verifV2-release-2.0)
